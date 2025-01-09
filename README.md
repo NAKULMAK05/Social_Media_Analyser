@@ -29,7 +29,7 @@ This project demonstrates a workflow that integrates **Astra DB** with a chat-ba
             - Example: `Extract the post type with the highest likes`.
 
 4. **Tool Integration**: 
-    - The agent sends the instructions to the Astra DB tool.
+    - The agent sends the instructions to the Astra DB tool. 
     - The tool fetches the requested data from the specified collection and database.
 
 5. **Output Generation**:
