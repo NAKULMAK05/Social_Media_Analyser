@@ -1,4 +1,4 @@
-## Social Media Analyzer Application
+## Social Media Analyzer Application 
 
 This project demonstrates a workflow that integrates **Astra DB** with a chat-based interface to analyze social media data. It leverages tools like the **Groq API** to process user queries and generate insightful responses.<br/> 
 
