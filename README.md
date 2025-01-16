@@ -19,7 +19,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
  
 2. **Chat Input**:
     - **Purpose**: Capture the user query dynamically in natural language.
-    - **Example Query**: `What is the maximum number of likes for a post?`.
+    - **Example Query**: `What is the maximum number of likes for a post?`. 
 
 3. **Agent (Language Model Integration)**:
     - **Purpose**: Process user input using a language model to generate actionable instructions for querying the database.
