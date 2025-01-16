@@ -3,7 +3,7 @@
 This project demonstrates a workflow that integrates **Astra DB** with a chat-based interface to analyze social media data. It leverages tools like the **Groq API** to process user queries and generate insightful responses.<br/>   
 
 You can also checkout the youtube video for detailed review  : https://youtu.be/HdfA5NL12KU?si=rCPU_4jkk9nL9iWc
-<br/>  
+<br/>   
 ### Workflow Overview  
   
 1. **Astra DB Connection**:
