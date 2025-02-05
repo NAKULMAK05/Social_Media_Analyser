@@ -18,7 +18,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
         - **Tool Parameters**:
             - Parameter: `post_type` (to filter or specify data types).
  
-2. **Chat Input**:
+2. **Chat Input**: 
     - **Purpose**: Capture the user query dynamically in natural language.
     - **Example Query**: `What is the maximum number of likes for a post?`. 
 
