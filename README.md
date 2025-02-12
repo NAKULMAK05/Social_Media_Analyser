@@ -25,7 +25,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
 3. **Agent (Language Model Integration)**:
     - **Purpose**: Process user input using a language model to generate actionable instructions for querying the database.
     - **Details**:
-        - **Language Model**: `Groq`.
+        - **Language Model**: `Groq`. 
         - **Model**: `gemma2-9b-it`. 
         - **Agent Instructions**:
             - Example: `Extract the post type with the highest likes`.
