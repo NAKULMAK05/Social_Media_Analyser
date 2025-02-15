@@ -30,7 +30,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
         - **Agent Instructions**:
             - Example: `Extract the post type with the highest likes`.
 
-4. **Tool Integration**: 
+4. **Tool Integration**:  
     - The agent sends the instructions to the Astra DB tool.  
     - The tool fetches the requested data from the specified collection and database.
 
