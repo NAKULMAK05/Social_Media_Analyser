@@ -38,7 +38,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
     - **Component**: Chat Output.
     - **Purpose**: Display the result of the query in a user-friendly manner.
     - Example Response: `The post type with the highest likes is "Image Post"`.
-
+ 
 ---
 
 ### Step-by-Step Process
