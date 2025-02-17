@@ -14,7 +14,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
         - **Tool Description**: Tool for generating insights from social media data. 
         - **Collection**: `Social_Media_Data`.  
         - **Database**: `social_media_insights`.
-        - **Astra DB Application Token**: Authentication token to securely access the database. 
+        - **Astra DB Application Token**: Authentication token to securely access the database.  
         - **Tool Parameters**:
             - Parameter: `post_type` (to filter or specify data types).
   
