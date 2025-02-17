@@ -10,7 +10,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
 1. **Astra DB Connection**:
     - **Purpose**: Establish a connection to the Astra DB instance and access the `Social_Media_Data` collection. 
     - **Components**:   
-        - **Tool Name**: `data_insights`. 
+        - **Tool Name**: `data_insights`.  
         - **Tool Description**: Tool for generating insights from social media data. 
         - **Collection**: `Social_Media_Data`.  
         - **Database**: `social_media_insights`.
