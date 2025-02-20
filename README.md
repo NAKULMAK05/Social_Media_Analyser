@@ -6,7 +6,7 @@ This project demonstrates a workflow that integrates **Astra DB** with a chat-ba
 You can also checkout the youtube video for detailed review  : https://youtu.be/HdfA5NL12KU?si=rCPU_4jkk9nL9iWc
 <br/>    
 ### Workflow Overview   
-    
+     
 1. **Astra DB Connection**:
     - **Purpose**: Establish a connection to the Astra DB instance and access the `Social_Media_Data` collection.  
     - **Components**:   
