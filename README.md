@@ -23,7 +23,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
     - **Example Query**: `What is the maximum number of likes for a post?`.   
 
 3. **Agent (Language Model Integration)**:
-    - **Purpose**: Process user input using a language model to generate actionable instructions for querying the database.
+    - **Purpose**: Process user input using a language model to generate actionable instructions for querying the database. 
     - **Details**:
         - **Language Model**: `Groq`. 
         - **Model**: `gemma2-9b-it`. 
