@@ -60,7 +60,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
    - Link the Chat Input, Astra DB tool, and Chat Output components via the Groq Agent.
 
 6. **Generate Insights**:
-   - Process the data and display the insights in the Chat Output.
+   - Process the data and display the insights in the Chat Output based on given dataset.
 
 ---
 
