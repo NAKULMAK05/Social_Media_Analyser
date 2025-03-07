@@ -1570,5 +1570,5 @@
   "name": "Social_Media_Insights_App",
   "last_tested_version": "1.1.1",
   "endpoint_name": null,
-  "is_component": false
+  "is_component": true
 }
