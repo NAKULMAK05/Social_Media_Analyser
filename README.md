@@ -67,5 +67,5 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
 ### Technologies Used
 
 - **Astra DB**: For managing and querying social media data.
-- **Groq API**: For natural language processing and intelligent query handling.
-- **Workflow Builder**: To design and connect the components visually.
+- **Groq API**: For natural language processing and intelligent query handling as an AI agent.
+- **Workflow Builder**: To design and connect the components visually and handle the workflows.
