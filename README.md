@@ -48,7 +48,7 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
    - Obtain the Astra DB Application Token for secure access.
 
 2. **Integrate Chat Input**:
-   - Use the Chat Input component to allow users to input their queries.
+   - Use the Chat Input component to allow users to input their queries just like other chatbots.
 
 3. **Setup Groq Agent**:
    - Configure the Groq API with appropriate models and instructions to process user queries.
