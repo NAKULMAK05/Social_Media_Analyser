@@ -69,3 +69,23 @@ You can also checkout the youtube video for detailed review  : https://youtu.be/
 - **Astra DB**: For managing and querying social media data.
 - **Groq API**: For natural language processing and intelligent query handling as an AI agent.
 - **Workflow Builder**: To design and connect the components visually and handle the workflows.
+
+
+---
+
+### Outputs
+
+## langflow Model
+
+![langflow](https://github.com/user-attachments/assets/5fdc3e0d-90d5-4fed-b234-cb2bc9ca34d0)
+
+
+## DataStax langflow playground (queries based on dataset are asked to RAG model)
+
+![langflow playground](https://github.com/user-attachments/assets/43d8ea2b-ec86-4765-9fd1-ec25008e5220)
+
+## DataStax AstraDB (for Storing the vector database)
+
+![AstraDB](https://github.com/user-attachments/assets/25e939cb-c7b5-470c-84f7-cfbffde3e472)
+
+
